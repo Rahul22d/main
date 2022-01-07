@@ -65,8 +65,8 @@ void display() {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 DoublyCir d=new DoublyCir();
-//d.add(34);
-//d.add(45);
+d.add(34);
+d.add(45);
 d.addFirst(56);
 d.display();
 	}
